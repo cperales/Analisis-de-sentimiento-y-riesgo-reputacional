@@ -10,4 +10,9 @@ En el nuevo ámbito de regulación bancaria durante esta crisis financiera, las 
 
 ## Algunos enlaces
 
+ * [Tweemanager](https://github.com/nfqsolutions/tweemanager)
+ * [Qdos (en desarrollo)](http://qdosapp.com/)
 
+## Agradecimientos
+
+A Hugo Marrao y Rogelio Rodríguez, por ayudarme con *tweemanager* y con la clasificación
