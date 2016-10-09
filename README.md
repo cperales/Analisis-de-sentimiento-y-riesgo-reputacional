@@ -1,8 +1,10 @@
-# ¿Podemos predecir si Twitter hundirá un banco?
+﻿# ¿Podemos predecir si Twitter hundirá un banco?
 
 ## Resumen
 
 El análisis de sentimiento es una herramienta con la cual se exploran las opiniones de un producto mediante valoración automática de mensajes en redes sociales. Se ha utilizado esta herramienta sobre Twitter para extraer una métrica sobre la reputación que tiene una entidad financiera, y poder estimar las pérdidas por riesgo reputacional.
+
+La presentación está también colgada en [Slideshare](http://www.slideshare.net/CarlosPerales/podemos-predecir-si-twitter-hundir-un-banco).
 
 ## Información
 
@@ -16,3 +18,7 @@ En el nuevo ámbito de regulación bancaria durante esta crisis financiera, las 
 ## Agradecimientos
 
 A Hugo Marrao y Rogelio Rodríguez, por ayudarme con *tweemanager* y con la clasificación
+
+## Licencia
+
+La presentación está colgada mediante licencia [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/).
