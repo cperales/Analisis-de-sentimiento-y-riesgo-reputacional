@@ -12,8 +12,8 @@ En el nuevo ámbito de regulación bancaria durante esta crisis financiera, las 
 
 ## Algunos enlaces
 
- * [Tweemanager](https://github.com/nfqsolutions/tweemanager)
- * [Qdos (en desarrollo)](http://qdosapp.com/)
+ * [Tweemanager](https://github.com/nfqsolutions/tweemanager) para recogida de tweets.
+ * [Qdos](http://qdosapp.com/) como servicio de NFQ para análisis de riesgo reputacional.
 
 ## Agradecimientos
 
