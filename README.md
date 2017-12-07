@@ -17,7 +17,7 @@ En el nuevo ámbito de regulación bancaria durante esta crisis financiera, las 
 
 ## Agradecimientos
 
-A Hugo Marrao y Rogelio Rodríguez, por ayudarme con *tweemanager* y con la clasificación
+A [Hugo Marrao](https://www.researchgate.net/profile/Hugo_Marrao3) y a Rogelio Rodríguez [1](https://es.linkedin.com/in/rogelio-rodriguez-oliveros-49661534), [2](https://www.researchgate.net/profile/Rogelio_Rodriguez-Oliveros), por ayudarme con *Tweemanager* y con los aspectos matemáticos de machine learning.
 
 ## Licencia
 
