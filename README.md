@@ -4,7 +4,7 @@
 
 El análisis de sentimiento es una herramienta con la cual se exploran las opiniones de un producto mediante valoración automática de mensajes en redes sociales. Se ha utilizado esta herramienta sobre Twitter para extraer una métrica sobre la reputación que tiene una entidad financiera, y poder estimar las pérdidas por riesgo reputacional.
 
-La presentación está también colgada en [Slideshare](http://www.slideshare.net/CarlosPerales/podemos-predecir-si-twitter-hundir-un-banco).
+La conferencia está [subida a Youtube](https://youtu.be/GNSSTS8QY-0) por [Python España](https://www.youtube.com/channel/UCyth_6hqft9a7B_thdwYyww). Las transparencias también están colgadas en [Slideshare](http://www.slideshare.net/CarlosPerales/podemos-predecir-si-twitter-hundir-un-banco).
 
 ## Información
 
@@ -12,8 +12,8 @@ En el nuevo ámbito de regulación bancaria durante esta crisis financiera, las 
 
 ## Algunos enlaces
 
- * [Tweemanager](https://github.com/nfqsolutions/tweemanager) para recogida de tweets.
- * [Qdos](http://qdosapp.com/) como servicio de NFQ para análisis de riesgo reputacional.
+ * [Tweemanager](https://github.com/nfqsolutions/tweemanager) para recogida de tweets (librería open source).
+ * [Qdos](http://qdosapp.com/) como servicio de NFQ para análisis de riesgo reputacional (librería privada desarrollada por [NFQ Solutions](http://nfq.es/solutions/).
 
 ## Agradecimientos
 
