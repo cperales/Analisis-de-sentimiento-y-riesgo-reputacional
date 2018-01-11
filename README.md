@@ -12,7 +12,7 @@ En el nuevo ámbito de regulación bancaria durante esta crisis financiera, las 
 
 ## Algunos enlaces
 
- * [Tweemanager](https://github.com/nfqsolutions/tweemanager) para recogida de tweets. Es una librería open source con licencia[AGPL 3.0](https://opensource.org/licenses/AGPL-3.0).
+ * [Tweemanager](https://github.com/nfqsolutions/tweemanager) para recogida de tweets. Es una librería open source con licencia [AGPL 3.0](https://opensource.org/licenses/AGPL-3.0).
  * [Qdos](http://qdosapp.com/) como servicio de NFQ para análisis de riesgo reputacional. Es una librería privada desarrollada por [NFQ Solutions](http://nfq.es/solutions/).
 
 ## Agradecimientos
